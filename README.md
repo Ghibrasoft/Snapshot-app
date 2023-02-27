@@ -1,46 +1,12 @@
-# Getting Started with Create React App
+# Demo
+using Bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## URL : https://guileless-quokka-fdd54b.netlify.app/
 
-## Available Scripts
+![Snapshot App and 21 more pages - Personal - Microsoft​ Edge 2_27_2023 4_23_33 PM](https://user-images.githubusercontent.com/96905686/221564253-b93dbe5c-c9e4-4dd8-917c-a03c0ca4714b.png)
 
-In the project directory, you can run:
+![Snapshot App and 21 more pages - Personal - Microsoft​ Edge 2_27_2023 4_26_14 PM](https://user-images.githubusercontent.com/96905686/221564285-b6a33911-a7a3-42f1-afb5-3c6a105cd01a.png)
 
-### `npm start`
+![Snapshot App and 21 more pages - Personal - Microsoft​ Edge 2_27_2023 4_26_31 PM](https://user-images.githubusercontent.com/96905686/221564306-400a6e71-51f6-418d-b79c-735a85a9d2b3.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Snapshot App and 21 more pages - Personal - Microsoft​ Edge 2_27_2023 4_27_37 PM](https://user-images.githubusercontent.com/96905686/221564322-ad238be5-f3ad-4bae-a4c6-d4c5f0673d18.png)
